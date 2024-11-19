@@ -1,4 +1,4 @@
-# IEEE-CIS Consequence Modelling
+# IEEE-CIS Risk Stratification
 
 This project focuses on utilizing the IEEE-CIS dataset to explore consequence modeling by predicting fraudulent transactions and analyzing their impact. The dataset provides rich transaction and identity data, making it ideal for advanced data science workflows, including machine learning modeling, strike-rate analysis, and consequence evaluation.
 
