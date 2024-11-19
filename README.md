@@ -2,6 +2,8 @@
 
 This project focuses on utilizing the IEEE-CIS dataset to explore consequence modeling by predicting fraudulent transactions and analyzing their impact. The dataset provides rich transaction and identity data, making it ideal for advanced data science workflows, including machine learning modeling, strike-rate analysis, and consequence evaluation.
 
+The dataset is sourced from the [IEEE-CIS Fraud Detection competition on Kaggle](https://www.kaggle.com/competitions/ieee-fraud-detection/data).
+
 ---
 
 ## Progress So Far
